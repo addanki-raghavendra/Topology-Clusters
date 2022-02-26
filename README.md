@@ -1,2 +1,2 @@
 # Topology-Nanoclusters
-Python tools and functions for computational topology (mathematics algorithms) of nanoclusters.
+Set of python tools and functions for computational topology (mathematics algorithms).
